@@ -6,11 +6,11 @@ This document is a guide on how to begin the transfer process from one committee
 ## The Committee Transferring Checklist
 Here's a checklist for you to get started with transferring committees. This list is meant to help a Working Group make sure everything that _needs_ to be complete to effectively transfer committees actually _is_ complete. 
 
-- [] Ensure the Working Group is in alignment on moving from the current committee to the new committee
-- [] Have the currrent committee vote to decharter
-- [] Have the new committee vote (and approve) a new charter
-- [] Mark that the Working Group has been dechartered in the Working Groups documentation for the current committee
-- [] Submit a PR to the new committee adding the Working Group to the Working Groups documentation for the new committee
+- [ ] Ensure the Working Group is in alignment on moving from the current committee to the new committee
+- [ ] Have the currrent committee vote to decharter
+- [ ] Have the new committee vote (and approve) a new charter
+- [ ] Mark that the Working Group has been dechartered in the Working Groups documentation for the current committee
+- [ ] Submit a PR to the new committee adding the Working Group to the Working Groups documentation for the new committee
 
 ## In depth: A guide to moving from one committe
 While the process of moving from one top level committee to another is likely going to be one of the smoother parts of this process, we've documented it in case you want some help with going through the process of this transition.
@@ -24,7 +24,7 @@ While the process of moving from one top level committee to another is likely go
   * **Step 2.2**: If there _are objections_ by the committee, continue on to Step 3.
 * **Step 3**: Once approved by both the WG and the new Committee, you will need to create two pull requests: one pull request to be dechartered by the previous Committee and one pull request to be chartered by the new Committee.
 * **Step 4**: Once dechartered by the previous Committee and chartered by the new Committee, you can use the following checklist 
-  * [] Have the currrent committee vote to decharter
-  * [] Have the new committee vote a new charter
-  * [] Mark that the Working Group has been dechartered in the Working Groups documentation for the current committee
-  * [] Submit a PR to the new committee adding the Working Group to the Working Groups documentation for the new committee
+  * [ ] Have the currrent committee vote to decharter
+  * [ ] Have the new committee vote a new charter
+  * [ ] Mark that the Working Group has been dechartered in the Working Groups documentation for the current committee
+  * [ ] Submit a PR to the new committee adding the Working Group to the Working Groups documentation for the new committee
